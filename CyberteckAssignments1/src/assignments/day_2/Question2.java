@@ -8,5 +8,4 @@ public class Question2 {
 		String lastName="Turing";
 System.out.println(firstName+","+lastName);
 	}
-
 }
